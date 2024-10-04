@@ -3,7 +3,7 @@
     语法错误，解析错误
     错误，执行时发生的错误
 
-2. 异常的处理 -- try-except-finally
+2. 异常的处理 -- try-except-else-finally
     try语句处理逻辑：
         try语句执行，没有触发异常，则跳过except子句，try语句执行完毕
         触发异常时，则跳过try子句剩余部分。
